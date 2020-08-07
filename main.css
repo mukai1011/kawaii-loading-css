@@ -1,3 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0px;
+    padding: 0px;
+    background-color: #000;
+    opacity: 50%;
+    color: #fff;
+}
+
+.title {
+    font-size: 36px;
+    padding: 10px 20px;
+}
+
 .loading {
     position: absolute;
     top: 50%;
